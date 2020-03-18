@@ -1,0 +1,9 @@
+Primary Object,Field Name ,Field description,Canonical Values
+Customer,First Name ,First Name of the Applicant ,
+,Last Name ,Last Name of the Applicant ,
+,Address Line1,Address Line1 of the Applicant,Address
+,Address Line2,Address Line2 of the Applicant,Address
+,Zipcode ,Social Security Number of the Applicant,"pincode, area code"
+,SSN,Social Security Number of the Applicant,"Social security number, unique id"
+Claim Details,Revenue Code,Revenue Code for the Claim,
+,Claim Amount ,Total Claim Amount of the Claim,

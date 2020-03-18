@@ -1,0 +1,16 @@
+{
+	"Customer": {
+		"First Name": "Jack",
+		"Last Name": "Smith",
+		"Address Line1": "302, Street Avenue",
+		"Address Line2": "California",
+		"ZipCode": "3500081",
+		"SSN": 1313331160
+	},
+	"Claim Details": {
+		"Revenue Code": "ZX201",
+		"Claim Amount": 2098.21
+	}
+
+
+}
