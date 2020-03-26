@@ -1,0 +1,5 @@
+Adjectives	Synonyms
+Invalid	faulty incorrect not-working wrong false defective inaccurate bad incomplete inexact
+Required	Excpected mandatory needed compulsory 
+Match	equal duplicate equivalent
+missing	incomplete misplaced removed short not-present
